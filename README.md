@@ -14,7 +14,7 @@ aluno:Matheus Colaço
 
 ---
 
-### 9. 📤 Controle de Versão com Git + GitHub
+### 2. 📤 Controle de Versão com Git + GitHub
 
 **Adicione tudo ao Git:**
 
